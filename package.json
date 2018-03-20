@@ -1,0 +1,22 @@
+{
+  "name": "vs-code-bug-45152-mocha-require",
+  "version": "1.0.0",
+  "description": "Update to 1.21 breaks mocha require",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscottx88/vs-code-bug-45152-mocha-require.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mscottx88/vs-code-bug-45152-mocha-require/issues"
+  },
+  "homepage": "https://github.com/mscottx88/vs-code-bug-45152-mocha-require#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.0.0",
+    "sinon-chai": "^2.14.0"
+  }
+}
